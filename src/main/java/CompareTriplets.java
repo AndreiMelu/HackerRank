@@ -16,7 +16,7 @@ public class CompareTriplets {
         for (int i = 0; i < a.size(); i++) {
             if (a.get(i) < b.get(i))
                 bScore++;
-            if (a.get(i) > b.get(i))
+            else if (a.get(i) > b.get(i))
                 aScore++;
         }
         score.add(aScore);

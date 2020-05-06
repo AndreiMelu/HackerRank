@@ -8,7 +8,6 @@ import java.util.List;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
-import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
 
@@ -28,12 +27,12 @@ class Result {
 
     public static List<String> fetchItemsToDisplay(List<List<String>> items, int sortParameter, int sortOrder, int itemsPerPage, int pageNumber) {
         if (sortParameter==0) {
-            Collections.sort(items, new nameSorter());
+            items.sort(new nameSorter());
         }
         else if (sortParameter==1){
-            Collections.sort(items, new relevanceSorter());
+            items.sort(new relevanceSorter());
         }
-        else { Collections.sort(items, new priceSorter());
+        else { items.sort(new priceSorter());
         }
         if (sortOrder==1){
             Collections.reverse(items);
@@ -48,10 +47,10 @@ class Result {
 
     }
     static <T> List<List<T>> chopped(List<T> list, final int L) {
-        List<List<T>> parts = new ArrayList<List<T>>();
+        List<List<T>> parts = new ArrayList<>();
         final int N = list.size();
         for (int i = 0; i < N; i += L) {
-            parts.add(new ArrayList<T>(
+            parts.add(new ArrayList<>(
                     list.subList(i, Math.min(N, i + L)))
             );
         }
@@ -115,11 +114,7 @@ public class Solution {
         int pageNumber = Integer.parseInt(bufferedReader.readLine().trim());
         List<String> result = Result.fetchItemsToDisplay(items, sortParameter, sortOrder, itemsPerPage, pageNumber);
 
-        bufferedWriter.write(
-                result.stream()
-                        .collect(joining("\n"))
-                        + "\n"
-        );
+        bufferedWriter.write(String.join("\n", result) + "\n");
 
         bufferedReader.close();
         bufferedWriter.close();
