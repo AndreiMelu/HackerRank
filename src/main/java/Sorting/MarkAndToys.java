@@ -50,4 +50,6 @@ public class MarkAndToys {
 
         scanner.close();
     }
+
+
 }
