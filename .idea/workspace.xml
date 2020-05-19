@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13104774-a655-4b19-9c14-e35eb7329027" name="Default Changelist" comment="A few more challenges">
-      <change afterPath="$PROJECT_DIR$/src/main/java/BotSavesPrincess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GradingStudents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OtherStuff/Immutable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OtherStuff/Ski.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Princess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TimeConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AbstractClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinomialDistribution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DictionariesAndMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Euler/ConcealedSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MultipleLinearRegression.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/OtherStuff/ImmutableTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
@@ -15,20 +16,9 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GenesHealth.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/GenesHealth.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/MeanMedianMode.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/MeanMedianMode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/OtherStuff/LanguageDetection.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/OtherStuff/LanguageDetection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/OtherStuff/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/OtherStuff/Result.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/OtherStuff/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/OtherStuff/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/OtherStuff/nameSorter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/OtherStuff/nameSorter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/OtherStuff/priceSorter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/OtherStuff/priceSorter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/OtherStuff/relevanceSorter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/OtherStuff/relevanceSorter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/WeightedMean.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/WeightedMean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sorting/MarkAndToys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sorting/MarkAndToys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/refs/heads/master" beforeDir="false" afterPath="$PROJECT_DIR$/refs/heads/master" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,23 +81,30 @@
       <recent name="C:\Users\Andrei\IdeaProjects\GitHub\HackerRank\src\main\java\other" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TimeConversion">
-    <configuration name="Immutable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OtherStuff.Immutable" />
+  <component name="RunManager" selected="Application.Arrays2D">
+    <configuration name="Arrays2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays2D" />
       <module name="HackerRank.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OtherStuff.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Princess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Princess" />
+    <configuration name="BinomialDistribution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinomialDistribution1" />
       <module name="HackerRank.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConcealedSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Euler.ConcealedSquare" />
+      <module name="HackerRank.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Euler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -118,26 +115,6 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="ImmutableTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;OtherStuff.ImmutableTest&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
     </configuration>
     <configuration name="ImmutableTest.testClassIsImmutable" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -160,19 +137,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Princess" />
-      <item itemvalue="Application.Immutable" />
-      <item itemvalue="Gradle.ImmutableTest" />
-      <item itemvalue="Gradle.ImmutableTest.testClassIsImmutable" />
+      <item itemvalue="Application.BinomialDistribution1" />
       <item itemvalue="Application.TimeConversion" />
+      <item itemvalue="Application.ConcealedSquare" />
+      <item itemvalue="Gradle.ImmutableTest.testClassIsImmutable" />
+      <item itemvalue="Application.Arrays2D" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Arrays2D" />
+        <item itemvalue="Application.ConcealedSquare" />
+        <item itemvalue="Application.BinomialDistribution1" />
         <item itemvalue="Application.TimeConversion" />
         <item itemvalue="Gradle.ImmutableTest.testClassIsImmutable" />
-        <item itemvalue="Gradle.ImmutableTest" />
-        <item itemvalue="Application.Immutable" />
-        <item itemvalue="Application.Princess" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588797959520</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="A few more challenges">
+      <created>1589032129751</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589032129751</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -230,10 +214,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1588662158728" />
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1588960233343">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1589899154364">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1588960233343" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589899154364" />
     <state x="590" y="338" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586868256206">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -254,66 +238,66 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="516" y="269" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1588590999444" />
-    <state x="58" y="7" width="1414" height="809" key="CommitChangelistDialog2" timestamp="1588798073567">
+    <state x="58" y="7" width="1414" height="809" key="CommitChangelistDialog2" timestamp="1589032125863">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="58" y="7" width="1414" height="809" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1588798073567" />
+    <state x="58" y="7" width="1414" height="809" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589032125863" />
     <state x="561" y="178" key="FileChooserDialogImpl" timestamp="1588852465732">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="561" y="178" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588852465732" />
-    <state width="1537" height="236" key="GridCell.Tab.0.bottom" timestamp="1589028065776">
+    <state width="1493" height="396" key="GridCell.Tab.0.bottom" timestamp="1589897865460">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="236" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589028065776" />
-    <state width="1537" height="236" key="GridCell.Tab.0.center" timestamp="1589028065776">
+    <state width="1493" height="396" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589897865460" />
+    <state width="1493" height="396" key="GridCell.Tab.0.center" timestamp="1589897865460">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="236" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589028065776" />
-    <state width="1537" height="236" key="GridCell.Tab.0.left" timestamp="1589028065776">
+    <state width="1493" height="396" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589897865460" />
+    <state width="1493" height="396" key="GridCell.Tab.0.left" timestamp="1589897865460">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="236" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589028065776" />
-    <state width="1537" height="236" key="GridCell.Tab.0.right" timestamp="1589028065776">
+    <state width="1493" height="396" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589897865460" />
+    <state width="1493" height="396" key="GridCell.Tab.0.right" timestamp="1589897865460">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="236" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589028065776" />
-    <state width="1537" height="325" key="GridCell.Tab.1.bottom" timestamp="1588084317977">
+    <state width="1493" height="396" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589897865460" />
+    <state width="1493" height="369" key="GridCell.Tab.1.bottom" timestamp="1589897845176">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="325" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588084317977" />
-    <state width="1537" height="325" key="GridCell.Tab.1.center" timestamp="1588084317977">
+    <state width="1493" height="369" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589897845176" />
+    <state width="1493" height="369" key="GridCell.Tab.1.center" timestamp="1589897845176">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="325" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588084317977" />
-    <state width="1537" height="325" key="GridCell.Tab.1.left" timestamp="1588084317977">
+    <state width="1493" height="369" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589897845176" />
+    <state width="1493" height="369" key="GridCell.Tab.1.left" timestamp="1589897845176">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="325" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588084317977" />
-    <state width="1537" height="325" key="GridCell.Tab.1.right" timestamp="1588084317977">
+    <state width="1493" height="369" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589897845176" />
+    <state width="1493" height="369" key="GridCell.Tab.1.right" timestamp="1589897845176">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="325" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588084317977" />
+    <state width="1493" height="369" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589897845176" />
     <state x="277" y="55" key="SettingsEditor" timestamp="1587897738619">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587897738619" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1588797987381">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1589032145781">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1588797987381" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1589025866640">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1589032145781" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1589630017124">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589025866640" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589630017124" />
     <state x="540" y="116" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1588958666981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="540" y="116" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1588958666981" />
-    <state x="499" y="168" key="extract.method.dialog" timestamp="1588787043410">
+    <state x="499" y="168" key="extract.method.dialog" timestamp="1589486487677">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="168" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1588787043410" />
+    <state x="499" y="168" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1589486487677" />
     <state x="463" y="10" width="609" height="804" key="find.popup" timestamp="1589027753689">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
