@@ -2,21 +2,71 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13104774-a655-4b19-9c14-e35eb7329027" name="Default Changelist" comment="A few more challenges">
-      <change afterPath="$PROJECT_DIR$/src/main/java/BST_LevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearchTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BonAppetit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BreakingTheRecords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CircularArrayRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DayOfTheProgrammer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ElectronicsShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/AbstractClasses.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/ArrangeStudents.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/ArrangeStudentsUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Arrays2D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/BST_LevelOrderTraversal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/BTS_Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/BinarySearchTrees.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/BinomialDistribution1$Solution6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/BinomialDistribution1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/BonAppetit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/BotSavesPrincess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/BreakingTheRecords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/CircularArrayRotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/DayOfTheProgrammer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/DictionariesAndMaps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Difference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/ElectronicsShop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Euler/ConcealedSquare.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/FindDigits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Generics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/GradingStudents.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Inheritance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/MigratoryBirds.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/MinimumMoves.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/MoreExceptions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/MultipleLinearRegression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/MyBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/MyLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Node1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/NodeTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/OtherStuff/Immutable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/OtherStuff/Ski.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/OtherStuff/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Princess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Printer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/QueuesAndStacks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Scope.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/TimeConversion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/ValidBinaryString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/OtherStuff/ImmutableTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/pack/pack-6da483bfd0e4c861e62f1971aade44f2af0e64fd.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/pack/pack-6da483bfd0e4c861e62f1971aade44f2af0e64fd.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/pack/pack-8739c95692467bdf43e7169e3402c40a4c375e3a.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/pack/pack-8739c95692467bdf43e7169e3402c40a4c375e3a.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/pack/pack-97a302ef90dcc6b6998c709c9307629260b28e93.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/pack/pack-97a302ef90dcc6b6998c709c9307629260b28e93.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/pack/pack-bec21754ff85dfa217a7dc2156efce95aaf1d4b4.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/pack/pack-bec21754ff85dfa217a7dc2156efce95aaf1d4b4.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/pack/pack-c3be49800968145b8ff14edd7226ffa485036b78.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/pack/pack-c3be49800968145b8ff14edd7226ffa485036b78.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/pack/pack-faaa2f8448d6fe0c8961fddbb0eb38819ff2254e.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/pack/pack-faaa2f8448d6fe0c8961fddbb0eb38819ff2254e.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArrangeStudents.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Euler/ConcealedSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FindDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Generics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MigratoryBirds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MoreExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/QueuesAndStacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MoreLinkedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RunningTimeAndComplexity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ValidBinaryString.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/OtherStuff/ImmutableTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
@@ -26,7 +76,8 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ArrayManipulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/ArrayManipulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ArrayManipulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArrayManipulation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,9 +140,9 @@
       <recent name="C:\Users\Andrei\IdeaProjects\GitHub\HackerRank\src\main\java\other" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Color">
-    <configuration name="Arrays2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays2D" />
+  <component name="RunManager" selected="Application.RunningTimeAndComplexity">
+    <configuration name="ArrangeStudents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrangeStudents" />
       <module name="HackerRank.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -110,19 +161,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConcealedSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Euler.ConcealedSquare" />
-      <module name="HackerRank.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Euler.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Generics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Generics" />
       <module name="HackerRank.main" />
@@ -130,27 +168,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MigratoryBirds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MigratoryBirds" />
+    <configuration name="RunningTimeAndComplexity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RunningTimeAndComplexity" />
+      <module name="HackerRank.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidBinaryString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValidBinaryString" />
       <module name="HackerRank.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ConcealedSquare" />
-      <item itemvalue="Application.Arrays2D" />
-      <item itemvalue="Application.MigratoryBirds" />
       <item itemvalue="Application.Generics" />
       <item itemvalue="Application.Color" />
+      <item itemvalue="Application.ValidBinaryString" />
+      <item itemvalue="Application.ArrangeStudents" />
+      <item itemvalue="Application.RunningTimeAndComplexity" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RunningTimeAndComplexity" />
+        <item itemvalue="Application.ArrangeStudents" />
+        <item itemvalue="Application.ValidBinaryString" />
         <item itemvalue="Application.Color" />
         <item itemvalue="Application.Generics" />
-        <item itemvalue="Application.MigratoryBirds" />
-        <item itemvalue="Application.Arrays2D" />
-        <item itemvalue="Application.ConcealedSquare" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589901369966</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="A few more challenges">
+      <created>1590750048881</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590750048881</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -250,10 +302,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="516" y="269" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1588590999444" />
-    <state x="58" y="7" width="1414" height="809" key="CommitChangelistDialog2" timestamp="1590749993917">
+    <state x="122" y="15" width="1414" height="809" key="CommitChangelistDialog2" timestamp="1590913018053">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="58" y="7" width="1414" height="809" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1590749993917" />
+    <state x="122" y="15" width="1414" height="809" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1590913018053" />
     <state x="144" y="70" key="DiffContextDialog" timestamp="1589901354108">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -262,38 +314,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="561" y="178" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588852465732" />
-    <state width="722" height="369" key="GridCell.Tab.0.bottom" timestamp="1590571505431">
+    <state width="1493" height="232" key="GridCell.Tab.0.bottom" timestamp="1590912928930">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="722" height="369" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590571505431" />
-    <state width="722" height="369" key="GridCell.Tab.0.center" timestamp="1590571505431">
+    <state width="1493" height="232" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590912928930" />
+    <state width="1493" height="232" key="GridCell.Tab.0.center" timestamp="1590912928930">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="722" height="369" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590571505431" />
-    <state width="722" height="369" key="GridCell.Tab.0.left" timestamp="1590571505431">
+    <state width="1493" height="232" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590912928930" />
+    <state width="1493" height="232" key="GridCell.Tab.0.left" timestamp="1590912928929">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="722" height="369" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590571505431" />
-    <state width="722" height="369" key="GridCell.Tab.0.right" timestamp="1590571505431">
+    <state width="1493" height="232" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590912928929" />
+    <state width="1493" height="232" key="GridCell.Tab.0.right" timestamp="1590912928930">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="722" height="369" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590571505431" />
-    <state width="1493" height="403" key="GridCell.Tab.1.bottom" timestamp="1590221992502">
+    <state width="1493" height="232" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590912928930" />
+    <state width="1493" height="280" key="GridCell.Tab.1.bottom" timestamp="1590844012352">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="403" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590221992502" />
-    <state width="1493" height="403" key="GridCell.Tab.1.center" timestamp="1590221992502">
+    <state width="1493" height="280" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590844012352" />
+    <state width="1493" height="280" key="GridCell.Tab.1.center" timestamp="1590844012343">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="403" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590221992502" />
-    <state width="1493" height="403" key="GridCell.Tab.1.left" timestamp="1590221992502">
+    <state width="1493" height="280" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590844012343" />
+    <state width="1493" height="280" key="GridCell.Tab.1.left" timestamp="1590844012343">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="403" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590221992502" />
-    <state width="1493" height="403" key="GridCell.Tab.1.right" timestamp="1590221992502">
+    <state width="1493" height="280" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590844012343" />
+    <state width="1493" height="280" key="GridCell.Tab.1.right" timestamp="1590844012352">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="403" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590221992502" />
+    <state width="1493" height="280" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590844012352" />
     <state x="349" y="148" key="IDE.errors.dialog" timestamp="1590748630361">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -302,14 +354,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587897738619" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1590749493572">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1590750058021">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1590749493572" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1590747449540">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1590750058021" />
+    <state x="249" y="150" width="959" height="586" key="com.intellij.ide.util.TipDialog" timestamp="1590908012419">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590747449540" />
+    <state x="249" y="150" width="959" height="586" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590908012419" />
     <state x="540" y="116" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1588958666981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

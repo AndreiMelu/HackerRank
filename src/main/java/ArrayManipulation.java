@@ -7,16 +7,16 @@ public class ArrayManipulation {
 
     // Complete the arrayManipulation function below.
     static long arrayManipulation(int n, int[][] queries) {
-        long arr[] = new long[n];
+        long[] arr = new long[n];
         long rez = 0;
-        for (int row = 0; row < queries.length; row++) {
-            for (int i = queries[row][0]; i <= queries[row][1]; i++) {
-                arr[i-1] += queries[row][2];
+        for (int[] query : queries) {
+            for (int i = query[0]; i <= query[1]; i++) {
+                arr[i - 1] += query[2];
             }
         }
-        for (int i = 0; i < arr.length; i++) {
-            if (rez < arr[i]) {
-                rez = arr[i];
+        for (long l : arr) {
+            if (rez < l) {
+                rez = l;
             }
         }
         return rez;
